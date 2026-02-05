@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️ Tran Pham Quang Huy | Java Backend Developer<br><br>IT Student @ University of Information and Communication Technology | Major: Software Engineering<br>Focus: Developing secure, reliable, and scalable backend solutions<br>Skilled in Java, Spring Boot, RESTful APIs, SQL<br>Experienced with NoSQL, Kafka, Redis<br>Frontend: Angular, HTML, CSS, TypeScript, Bootstrap<br>Tools: Git, Docker, Postman<br><br>Always Improving: System design, API architecture, and microservices<br><br>📩 Open to internships & collaborations!
+⚙️ Tran Pham Quang Huy | Java Backend Developer<br><br>IT Student @ University of Information and Communication Technology | Major: Software Engineering<br>Focus: Developing secure, reliable, and scalable backend solutions<br>Skilled in Java, Spring Boot, RESTful APIs, SQL<br>Experienced with NoSQL, Kafka, Redis<br>Always Improving: System design and API architecture<br><br>📩 Open to  collaborations!
 
 
 ## 🌐 Socials:
